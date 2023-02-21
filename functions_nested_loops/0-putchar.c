@@ -1,8 +1,14 @@
+/*
+ * This program prints putchar
+ *
+ *
+ */
+
 #include "main.h"
 
 /**
- * _putchar - writes the character c to stdout
- * @c: The character to print
+ * main - prints _putchar
+ *
  *
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
