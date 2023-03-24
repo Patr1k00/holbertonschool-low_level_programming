@@ -3,7 +3,7 @@
 
 #include <stdarg.h>
 /**
- * struct p_d - structure for printing data
+ * struct printer - structure for printing data of various types
  * @type: format type
  * @print: the function for printing
  */
